@@ -1,6 +1,7 @@
 # V2P-Based Smombie Recognition & Alarm Application
 > 본 저장소는 **「V2P 기반 스마트폰 보행자 스몸비 인식 및 알림 시스템 개발」** 논문의  
 > Android Application 구현을 위한 Repository입니다.
+
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 V2P(Vehicle-to-Pedestrian) 기반으로 스마트폰을 사용하며 보행하는 사용자를 탐지하고,  
